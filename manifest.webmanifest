@@ -1,0 +1,21 @@
+{
+  "name": "Bible Dictionary — Free Biblical Study Reference",
+  "short_name": "Bible Dictionary",
+  "description": "A free standalone Bible dictionary for biblical words, people, places, teachings, books, practices, historical context, and deeper study.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./Bible-Dictionary-v105.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#17324d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

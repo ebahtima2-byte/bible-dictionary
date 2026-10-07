@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Bible Dictionary</title>
+  <desc id="desc">Open book icon for Bible Dictionary</desc>
+  <rect width="512" height="512" rx="96" fill="#17324d"/>
+  <path d="M256 126c-52-34-105-35-158-9v230c53-26 106-25 158 9 52-34 105-35 158-9V117c-53-26-106-25-158 9Z" fill="#fff"/>
+  <path d="M256 126v230" fill="none" stroke="#17324d" stroke-width="14" stroke-linecap="round"/>
+  <path d="M132 164c35-13 72-10 106 9M132 208c35-13 72-10 106 9M280 173c34-19 71-22 106-9M280 217c34-19 71-22 106-9" fill="none" stroke="#17324d" stroke-width="11" stroke-linecap="round" opacity=".85"/>
+</svg>
