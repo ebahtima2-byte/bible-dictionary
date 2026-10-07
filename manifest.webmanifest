@@ -4,7 +4,7 @@
   "description": "A free standalone Bible dictionary for biblical words, people, places, teachings, books, practices, historical context, and deeper study.",
   "lang": "en",
   "dir": "ltr",
-  "start_url": "./Bible-Dictionary-v105.html",
+  ""start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
